@@ -1,0 +1,6 @@
+# Deterministic pages for the 60-90 second interview demonstration.
+# The set intentionally contains both PASS and REVIEW outcomes.
+https://docs.snowflake.com/en/api-reference.md
+https://docs.snowflake.com/en/index.md
+https://docs.snowflake.com/en/developer-guide/snowpark/java/index.md
+https://docs.snowflake.com/en/developer-guide/sql-api/reference.md
